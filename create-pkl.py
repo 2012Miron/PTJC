@@ -1,7 +1,7 @@
 import pickle
 import os
 
-CoolText = "Eat more this softer files. Mmmm..."
+CoolText = "Eat more this softer files."
 Path = 'Test.pkl'
 
 with open(Path, 'wb') as file:
