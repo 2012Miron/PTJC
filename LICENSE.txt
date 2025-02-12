@@ -1,4 +1,4 @@
-MIT License for the framework Pickle-Text-JSON Converter
+MIT License for the framework Pickle-Text-JSON Converter.
 
 Copyright (c) 2025 2012Miron
 
