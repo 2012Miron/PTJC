@@ -7,8 +7,8 @@ For start converting, run file start-in-cmd.py, and choose options. Or, run file
 ## Integrate details (or short documentation)
 
 **First**: if you want to integrate this program in your projects, install PTJC from [PyPI](https://pypi.org), or by pip:
-```
-PS C:/Users/User: pip install PTJC
+```bash
+pip install PTJC
 ```
 
 After line with `from ptconverter import convert` you can use main class -- **convert**. He has three another classes: `toTxt`, `toPkl` and `toJson`.
