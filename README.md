@@ -6,10 +6,7 @@ For start converting, run file start-in-cmd.py, and choose options. Or, run file
 
 ## Integrate details (or short documentation)
 
-**First**: if you want to integrate this program in your projects, install PTJC from [PyPI](https://pypi.org), or by pip:
-```bash
-pip install PTJC
-```
+**First**: if you want to integrate this program in your projects, install PTJC to Python folder, and write him in requirements. 
 
 After line with `from ptconverter import convert` you can use main class -- **convert**. He has three another classes: `toTxt`, `toPkl` and `toJson`.
 The first of them convert any file to .txt, most simple type of text files.
