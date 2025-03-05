@@ -7,6 +7,8 @@ You can integrate him in your projects for make configs, and easy convert him to
 Project: https://github.com/2012Miron/PTJC
 
 Short documentation: https://github.com/2012Miron/PTJC#integrate-details-or-short-documentation
+
+Made by Miron.
 """
 
 import json
